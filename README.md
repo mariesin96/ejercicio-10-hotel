@@ -1,1 +1,1 @@
-# ejercicio-10-hotel
+# ejercicioreservarhotel.py
